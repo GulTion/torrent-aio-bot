@@ -1,0 +1,5 @@
+
+CLIENT_ID env not set. Not uploading to gdrive. 
+CLIENT_SECRET env not set. Not uploading to gdrive. 
+AUTH_CODE env not set. 
+TOKEN env not set. 
