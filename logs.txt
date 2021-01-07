@@ -1,5 +1,3 @@
 
-CLIENT_ID env not set. Not uploading to gdrive. 
-CLIENT_SECRET env not set. Not uploading to gdrive. 
-AUTH_CODE env not set. 
-TOKEN env not set. 
+GDRIVE_PARENT_FOLDER set to 1DRUFspPfopVEMbwPDIcd9_TKPms5NCIa 
+Gdrive client up 

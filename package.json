@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "build": "cd web && npm install && npm run build",
-    "prodev":"NODE_ENV=production nodemon index.js",
+    "prodev": "nodemon index.js",
     "start": "NODE_ENV=production node index.js"
   },
   "keywords": [
@@ -48,6 +48,8 @@
     "prop-types": "^15.7.2",
     "puppeteer": "^2.0.0",
     "readline": "^1.3.0",
+    "request": "^2.88.2",
+    "request-progress": "^3.0.0",
     "serve-index": "^1.9.1",
     "webtorrent": "^0.107.17",
     "zip-a-folder": "^0.0.12"
